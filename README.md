@@ -8,7 +8,7 @@ You can find us on reddit at r/CIAT on discord with the invite link https://disc
 This Git is for development on the ROS. If you'd like to try to change the world and maybe get paid along the way you're in the right place.
 
 Update: 5/1/2018
-There isn't a lot here right because we're just getting started. Our first goal is to find an open source operating system to work off of. It must be easy to work with and robust enough to build our foundation with. Meaning, the code needs to be well commented, well organized, and easy to expand upon. We also plan on changing much of ther code ourselves to make it more readable and understandable. We want everything we release to be easy for even a novice to understand and work with. If you'd like to contribute, please reach out on our discord to become a part of our open development team. We need all kinds of help, not just coding, so please don't be shy!
+There isn't a lot here right because we're just getting started. Our first goal is to find an open source operating system to work off of. It must be easy to work with and robust enough to build our foundation with. Meaning, the code needs to be well commented, well organized, and easy to expand upon. We also plan on changing much of the code ourselves to make it more readable and understandable. We want everything we release to be easy for even a novice to understand and work with. If you'd like to contribute, please reach out on our discord to become a part of our open development team. We need all kinds of help, not just coding, so please don't be shy!
 
 If you do plan on submitting code to the project, we ask that you please follow a few guide lines.
 
