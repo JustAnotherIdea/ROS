@@ -3,7 +3,7 @@ The world's first fully featured open-source OS
 
 Hello world! We are CIAT (Charity In All Things) and this is the ROS (Responsible Operating System). Our goal here is to work off of existing open source code, clean it up, implement some of our own ideas, and make it more understandable and useable overall.
 
-You can find us on reddit at r/CIAT on discord with the invite link https://discord.gg/xxnAAme and on Twitter @CIAT_Official.
+You can find us on reddit at r/CIAT on discord with the invite link https://discord.gg/p2Xz3B7 and on Twitter @CIAT_Official.
 
 This Git is for development on the ROS. If you'd like to try to change the world and maybe get paid along the way you're in the right place. Our goal to reach full development of this operating system is to raise $1,500,000 to $5,000,000 and split that evenly with everyone who contributes according to how much they contributed to each feature. The ETA's and values aren't set in stone until we raise donations, but you can take them as rough estimates as to how much of the funding will be given to each feature. As lead designer and owner of my non-profit, I will not be taking any portion of the donations, and none of the funds raised will be used for personal or buisness development. I want this to be a project run by the community, for the community, so all the profits should go to the community.
 
